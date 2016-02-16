@@ -1,0 +1,2 @@
+# pandora
+test,study,all
